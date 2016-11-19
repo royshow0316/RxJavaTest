@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Roy/android/RxJavaTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Roy/android/RxJavaTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_1e38b43b6621b117a6c749e3dbcd8007ce44321e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Roy/android/RxJavaTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d0777962d0890ae28506d7ed094a3aaf2cb0de48">
+        <dex dex="/Users/Roy/android/RxJavaTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_aa4f6244564941068b295f06c27bff43e4448d1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Roy/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/Roy/android/RxJavaTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_f63a8c416e2c9bbf811f3ae3e50d4da33a614ea7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Roy/android/RxJavaTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Roy/android/RxJavaTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_412c1416da5a1152eeb30335f92bf6ef2912fd17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Roy/android/RxJavaTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Roy/android/RxJavaTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_1e733c6b51011b571bedf197fad037d7b66f42aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Roy/android/RxJavaTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Roy/android/RxJavaTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_4bb01f581ff95a69eabcb9aa4c0d418327a894f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Roy/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/Users/Roy/android/RxJavaTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_0b518cd8af163eb3731f8dac863a2f8e03a0a38a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Roy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Roy/android/RxJavaTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_5bbc6a21832df3bdd2a33b9e5f05fdc10c74f865/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Roy/android/RxJavaTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Roy/android/RxJavaTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_cd6215bff177084f7e508ac0429efb33666254ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Roy/android/RxJavaTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9f4069b4bfee0347d87804b0209d803e0ffd08b3">
+        <dex dex="/Users/Roy/android/RxJavaTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4da6ca988f4e77436c3f504ab512f6b2b0254881/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Roy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/Roy/android/RxJavaTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_bc4db2b2ccb11d81b2b3dfd171dbc9024f10e09c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Roy/android/RxJavaTest/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/Roy/android/RxJavaTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_5d0db12369769c9b08aa7b347ab9b0568e1482ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Roy/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/Roy/android/RxJavaTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_8946a6f6f561a39149c728afa92698119a4e1dd9/classes.dex" />
+    </item>
+
+</items>
